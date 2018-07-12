@@ -1,73 +1,12 @@
 Graaccoin integration/staging tree
 ================================
 
-http://www.graaccoin.org
+http://www.graaccoin.com
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Graaccoin Developers
+PT-BR:
 
-What is Graaccoin?
-----------------
+Graaccoin é um criptomoeda Descentralizado que tem valor monetário real, e é o resultado de um projeto criado por Patrick Gonçalves em 2018, que visa ajudar as pessoas, priorizando as vítimas de câncer e, portanto, recebeu o nome GRAACCoin para Graacc (Grupo de Apoio ao Adolescente e Criança com Câncer) Como o nome diz, é um grupo de apoio para pessoas com câncer, então para ajudar essas pessoas foi criado o Graaccoin, a moeda só não doa 100% devido aos custos de manutenção e desenvolvimento. No entanto, o valor de 50% dos blocos minados será doado ao GRAACC e outras causas, como a compra de medicamentos e o financiamento do tratamento. Agradecemos a todos aqueles que puderam comprar e, assim, ajudar essas entidades e pessoas.
 
-Graaccoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+EN-US:
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the Graaccoin client sofware, see http://www.graaccoin.org.
-
-License
--------
-
-Graaccoin is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
-
-Development process
--------------------
-
-Developers work in their own trees, then submit pull requests when they think
-their feature or bug fix is ready.
-
-If it is a simple/trivial/non-controversial change, then one of the Graaccoin
-development team members simply pulls it.
-
-If it is a *more complicated or potentially controversial* change, then the patch
-submitter will be asked to start a discussion with the devs and community.
-
-The patch will be accepted if there is broad consensus that it is a good thing.
-Developers should expect to rework and resubmit patches if the code doesn't
-match the project's coding conventions (see `doc/coding.txt`) or are
-controversial.
-
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/graaccoin-project/graaccoin/tags) are created
-regularly to indicate new official, stable release versions of Graaccoin.
-
-Testing
--------
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test. Please be patient and help out, and
-remember this is a security-critical project where any mistake might cost people
-lots of money.
-
-### Automated Testing
-
-Developers are strongly encouraged to write unit tests for new code, and to
-submit new unit tests for old code.
-
-Unit tests for the core code are in `src/test/`. To compile and run them:
-
-    cd src; make -f makefile.unix test
-
-Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
-
-    qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
-    make -f Makefile.test
-    ./graaccoin-qt_test
-
+Graaccoin is a criptomoeda Decentralized that has real monetary value, and is the result of a project created by Patrick Gonçalves in 2018, which aims to help people, prioritizing the victims of cancer and therefore was given the name GRAACCoin to Graacc (Adolescent Support Group and Child with Cancer) As the name says, it is a support group for people with cancer, so to help these people was created the Graaccoin, the currency only does not donate 100% due to maintenance and development costs. However, the value of 50% of the mined blocks will be donated to GRAACC and other causes such as purchase of medicines and treatment financing. We thank all those who have been able to buy and thus help these entities and people.
