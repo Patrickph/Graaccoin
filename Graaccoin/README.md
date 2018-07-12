@@ -1,7 +1,7 @@
-Graaccoin integration/staging tree
+Projeto Graaccoin/Graaccoin Project
 ================================
 
-http://www.graaccoin.com
+Site Oficial: http://www.graaccoin.com
 
 PT-BR:
 
@@ -10,3 +10,7 @@ Graaccoin é um criptomoeda Descentralizado que tem valor monetário real, e é 
 EN-US:
 
 Graaccoin is a criptomoeda Decentralized that has real monetary value, and is the result of a project created by Patrick Gonçalves in 2018, which aims to help people, prioritizing the victims of cancer and therefore was given the name GRAACCoin to Graacc (Adolescent Support Group and Child with Cancer) As the name says, it is a support group for people with cancer, so to help these people was created the Graaccoin, the currency only does not donate 100% due to maintenance and development costs. However, the value of 50% of the mined blocks will be donated to GRAACC and other causes such as purchase of medicines and treatment financing. We thank all those who have been able to buy and thus help these entities and people.
+
+
+
+Mais Informações Em Breve/More Informations soon...
